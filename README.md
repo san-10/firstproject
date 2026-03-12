@@ -1,1 +1,4 @@
 # firstproject
+
+-------------
+firstproject - learnings 
